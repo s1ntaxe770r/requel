@@ -1,15 +1,3 @@
-# Requel
-
-http logging middleware for the [gorilla](https://github.com/gorilla/mux) framework
-
-
-### Install 
-` go get -u github.com/s1ntaxe770r/requel `
-
-Example 
-
-```go 
-
 package main
 
 import (
@@ -29,14 +17,3 @@ func main() {
 	http.ListenAndServe(":5050", router)
 
 }
-
-```
-Sample output
-
-![output](output.png)
-
-
-The request method, path ,execution time and ip  are logged 
-
-### Todos 
-- [ ] log http response 
