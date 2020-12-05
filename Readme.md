@@ -2,7 +2,8 @@
 
 http logging middleware for the [gorilla](https://github.com/gorilla/mux) framework
 
-![Go](https://github.com/s1ntaxe770r/requel/workflows/Go/badge.svg)
+![Test](https://github.com/s1ntaxe770r/requel/workflows/Go/badge.svg) [![GoDoc](https://godoc.org/github.com/s1ntaxe770r/requel?status.svg)](https://godoc.org/github.com/s1ntaxe770r/requel)
+
 
 ### Install 
 ` go get -u github.com/s1ntaxe770r/requel `
